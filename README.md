@@ -1,8 +1,6 @@
-# React + Vite
+# Travel Journal
+Solo project for react course in Scrimba.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Screenshot 2024-04-13 202411](https://github.com/polcuenca/Travel-Journal/assets/115073490/1bf6d5dc-b3a9-4ff0-be94-cf614fb9f90a)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
